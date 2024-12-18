@@ -3,10 +3,10 @@
 ## CS50P Final Project
 ### Bill Louer
 ###  New Jersey, USA
-###  Date: 
+###  Date: 12/17/2024
 
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://www.youtube.com/watch?v=4uxDcXxDYrs>
 
 ##  Background:
 Data centers are expanding in number and in size at a rapid pace.  Data centers require a significant amount of electrical power at high availability.  Availability metrics for data centers are defined by Uptime Institute according to a Tier Level.  Uptime Institute's categorization of Tier level includes an availability metric as follows:
